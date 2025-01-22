@@ -1,0 +1,75 @@
+{
+    "formulaire_cuisine": [
+        {
+            "question": "Quel est le budget que vous souhaitez allouer pour votre cuisine ?",
+            "options": null,
+            "réponse": "D'après le document, le couple, Marie et Paul, souhaite ne pas dépasser un budget de 10 000 euros pour leur nouvelle cuisine."
+        },
+        {
+            "question": "Quelle est la surface disponible pour votre cuisine (en m²) ?",
+            "options": null,
+            "réponse": "Le document fourni ne fournit pas d'informations sur la surface disponible pour la cuisine."
+        },
+        {
+            "question": "Quel style de cuisine préférez-vous ?",
+            "options": [
+                "Moderne",
+                "Classique",
+                "Rustique",
+                "Industriel",
+                "Minimaliste"
+            ],
+            "réponse": "D'après le document, Marie et Paul préfèrent une cuisine de style moderne avec des touches de bois pour une ambiance chaleureuse."
+        },
+        {
+            "question": "Avez-vous des préférences pour les matériaux principaux (plan de travail, façades, etc.) ?",
+            "options": null,
+            "réponse": "Selon le dialogue, Marie et Paul préfèrent un plan de travail en stratifié pour la durabilité et le rapport qualité-prix. Pour les façades des meubles, ils préfèrent le blanc mat avec quelques éléments en bois pour apporter de la chaleur. Pour l'évier, ils ont choisi la céramique pour son aspect esthétique et sa durabilité."
+        },
+        {
+            "question": "Quel type d'électroménager souhaitez-vous inclure ?",
+            "options": [
+                "Plaque de cuisson",
+                "Four encastrable",
+                "Micro-ondes",
+                "Réfrigérateur",
+                "Lave-vaisselle",
+                "Hotte"
+            ],
+            "réponse": "D'après le document, Marie et Paul souhaitent inclure dans leur nouvelle cuisine un four encastré, un lave-vaisselle et une grande hotte, car Paul cuisine beaucoup. Il n'est pas mentionné s'ils souhaitent également une plaque de cuisson, un micro-ondes ou un réfrigérateur."
+        },
+        {
+            "question": "Quel type d'agencement préférez-vous ?",
+            "options": [
+                "Cuisine en L",
+                "Cuisine en U",
+                "Cuisine linéaire",
+                "Cuisine avec îlot central"
+            ],
+            "réponse": "D'après le document, Marie a mentionné qu'elle aime beaucoup les cuisines ouvertes, avec un îlot central si possible. Donc, leur préférence se porterait sur une cuisine avec un îlot central."
+        },
+        {
+            "question": "Souhaitez-vous des rangements supplémentaires (colonnes, tiroirs, etc.) ?",
+            "options": null,
+            "réponse": "Oui, d'après la conversation, Paul a mentionné qu'ils veulent avoir beaucoup de rangements dans leur nouvelle cuisine car ils manquent de place dans leur cuisine actuelle."
+        },
+        {
+            "question": "Avez-vous des contraintes spécifiques (hauteur, largeur, accès à l'eau ou électricité) ?",
+            "options": null,
+            "réponse": "Le document ne mentionne aucune contrainte spécifique à propos de la hauteur, la largeur, l'accès à l'eau ou à l'électricité pour la nouvelle cuisine de Marie et Paul."
+        },
+        {
+            "question": "Quand souhaitez-vous que le projet soit réalisé ?",
+            "options": null,
+            "réponse": "Le document ne précise pas quand Marie et Paul souhaitent que le projet de cuisine soit réalisé."
+        },
+        {
+            "question": "Souhaitez-vous un accompagnement pour le design de votre cuisine ?",
+            "options": [
+                "Oui",
+                "Non"
+            ],
+            "réponse": "Oui, d'après le dialogue, il apparaît que Marie et Paul s'attendent à ce que le commerçant crée une proposition personnalisée pour leur nouvelle cuisine, ce qui suggère qu'ils souhaitent un accompagnement pour le design de leur cuisine."
+        }
+    ]
+}

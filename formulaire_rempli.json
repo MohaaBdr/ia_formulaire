@@ -1,0 +1,75 @@
+{
+    "formulaire_cuisine": [
+        {
+            "question": "Quel est le budget que vous souhaitez allouer pour votre cuisine ?",
+            "options": null,
+            "réponse": "Le couple a dit que leur budget pour la cuisine est de 10 000 euros, tout inclus."
+        },
+        {
+            "question": "Quelle est la surface disponible pour votre cuisine (en m²) ?",
+            "options": null,
+            "réponse": "Le document ne mentionne pas la taille ou la surface de la cuisine."
+        },
+        {
+            "question": "Quel style de cuisine préférez-vous ?",
+            "options": [
+                "Moderne",
+                "Classique",
+                "Rustique",
+                "Industriel",
+                "Minimaliste"
+            ],
+            "réponse": "Le couple, Marie et Paul, ont mentionné qu'ils préfèrent une cuisine de style moderne. Marie a également mentionné qu'elle aimerait des touches de bois pour créer une ambiance chaleureuse."
+        },
+        {
+            "question": "Avez-vous des préférences pour les matériaux principaux (plan de travail, façades, etc.) ?",
+            "options": null,
+            "réponse": "Oui, le couple a exprimé leurs préférences pour les matériaux principaux. Pour le plan de travail, ils ont opté pour le stratifié en raison de sa solidité et son bon rapport qualité-prix. Pour les façades des meubles, ils aimeraient du blanc mat avec quelques éléments en bois pour donner une chaleur à l'ensemble. En ce qui concerne l'évier, ils ont choisi l'évier en céramique pour sa durabilité."
+        },
+        {
+            "question": "Quel type d'électroménager souhaitez-vous inclure ?",
+            "options": [
+                "Plaque de cuisson",
+                "Four encastrable",
+                "Micro-ondes",
+                "Réfrigérateur",
+                "Lave-vaisselle",
+                "Hotte"
+            ],
+            "réponse": "Le couple a indiqué vouloir des appareils électroménagers encastrés pour une meilleure harmonie. Plus précisément, ils ont mentionné vouloir un four encastré et un lave-vaisselle. De plus, Paul a spécifié la nécessité d'avoir une grande hotte, car il cuisine beaucoup. Ils n'ont pas mentionné s'ils voulaient une plaque de cuisson, un micro-ondes ou un réfrigérateur."
+        },
+        {
+            "question": "Quel type d'agencement préférez-vous ?",
+            "options": [
+                "Cuisine en L",
+                "Cuisine en U",
+                "Cuisine linéaire",
+                "Cuisine avec îlot central"
+            ],
+            "réponse": "Le couple préfère une cuisine ouverte avec un îlot central, comme indiqué par Marie pendant leur conversation avec le commercial."
+        },
+        {
+            "question": "Souhaitez-vous des rangements supplémentaires (colonnes, tiroirs, etc.) ?",
+            "options": null,
+            "réponse": "Oui, le couple a mentionné qu'ils veulent beaucoup de rangements dans leur nouvelle cuisine. Paul a spécifiquement indiqué qu'ils manquent actuellement de place dans leur cuisine existante."
+        },
+        {
+            "question": "Avez-vous des contraintes spécifiques (hauteur, largeur, accès à l'eau ou électricité) ?",
+            "options": null,
+            "réponse": "Le document ne mentionne aucune contrainte spécifique en termes de hauteur, largeur, accès à l'eau ou à l'électricité pour la nouvelle cuisine."
+        },
+        {
+            "question": "Quand souhaitez-vous que le projet soit réalisé ?",
+            "options": null,
+            "réponse": "Le document ne précise pas quand le couple souhaite que le projet de cuisine soit réalisé."
+        },
+        {
+            "question": "Souhaitez-vous un accompagnement pour le design de votre cuisine ?",
+            "options": [
+                "Oui",
+                "Non"
+            ],
+            "réponse": "Oui, le couple souhaite être accompagné pour le design de leur cuisine. Le commercial a mentionné qu'il allait prendre leurs préférences et créer une proposition personnalisée pour eux. Ils prévoient également de revoir cette proposition en boutique pour éventuellement apporter des modifications."
+        }
+    ]
+}

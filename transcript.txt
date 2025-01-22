@@ -1,0 +1,49 @@
+Commercial : Bonjour ! Bienvenue chez Cuisines & Co. Comment puis-je vous aider aujourd’hui ?
+
+Marie (la femme) : Bonjour ! Nous cherchons à refaire notre cuisine. Elle commence à être vraiment vieillotte et pas très fonctionnelle.
+
+Paul (l'homme) : Oui, on voudrait quelque chose de plus moderne, pratique, mais pas hors de prix non plus.
+
+Commercial : Très bien, je comprends. Avez-vous déjà une idée du style ou des matériaux que vous aimeriez ?
+
+Marie : J’aime beaucoup les cuisines ouvertes, avec un îlot central si possible. Pour le style, quelque chose de moderne, mais chaleureux, peut-être avec des touches de bois.
+
+Paul : Et surtout, beaucoup de rangements ! Dans notre cuisine actuelle, on manque cruellement de place.
+
+Commercial : Parfait, une cuisine ouverte avec un îlot central et des rangements optimisés, c’est tout à fait faisable. Et pour les matériaux, vous préférez un plan de travail en bois, en quartz ou en stratifié ?
+
+Paul : Stratifié, ça me paraît bien. C’est solide et ça doit être moins cher que le quartz, non ?
+
+Commercial : Exactement, le stratifié est une excellente option pour un bon rapport qualité-prix. Il y a aussi de très beaux designs qui imitent le bois ou la pierre. Et pour les façades des meubles, plutôt du mat, du brillant ou peut-être une couleur spécifique ?
+
+Marie : J’aime beaucoup le blanc mat, mais avec peut-être quelques éléments en bois pour réchauffer l’ensemble.
+
+Paul : Moi, tant que c’est facile à nettoyer, ça me va.
+
+Commercial : Très bien, blanc mat avec des touches de bois, c’est une combinaison qui marche toujours très bien. Et pour les appareils électroménagers, est-ce que vous en avez déjà ou vous souhaitez qu’on les intègre dans le projet ?
+
+Marie : On voudrait les intégrer, oui. Et si possible des appareils encastrés pour que tout soit bien harmonieux.
+
+Paul : Oui, surtout un four et un lave-vaisselle. Ah, et il faut absolument une grande hotte parce que je cuisine beaucoup et ça sent vite.
+
+Commercial : Parfait, on peut tout intégrer dans le design. Et pour l’évier, vous préférez un évier en inox, en résine ou peut-être quelque chose de plus design comme un évier en céramique ?
+
+Marie : En céramique, c’est très joli, mais est-ce que c’est fragile ?
+
+Commercial : Pas du tout ! Les éviers en céramique d’aujourd’hui sont très résistants et faciles à entretenir. Mais si vous cherchez quelque chose de plus économique, la résine est aussi une bonne option.
+
+Paul : OK, céramique alors, si c’est durable.
+
+Commercial : Très bon choix ! Je vais prendre vos préférences et créer une proposition personnalisée. Une dernière question : avez-vous un budget que vous aimeriez respecter ?
+
+Paul : On aimerait ne pas dépasser 10 000 euros, tout inclus.
+
+Commercial : Très bien, c’est tout à fait réalisable pour une cuisine comme celle que vous avez décrite. Je vais préparer un plan 3D avec une estimation et je vous montrerai tout ça. Vous pouvez repasser dans deux jours ou je vous envoie le projet par e-mail ?
+
+Marie : On préfère repasser en boutique, c’est plus pratique.
+
+Paul : Oui, on pourra voir directement ce qui peut être modifié.
+
+Commercial : Parfait, je note ça. Merci pour toutes vos informations. Je vous promets une cuisine qui répondra à vos attentes. À très bientôt !
+
+Marie et Paul : Merci beaucoup, à bientôt !

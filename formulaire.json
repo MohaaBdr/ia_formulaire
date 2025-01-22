@@ -1,0 +1,54 @@
+{
+  "formulaire_cuisine": [
+    {
+      "question": "Quel est le budget que vous souhaitez allouer pour votre cuisine ?",
+      "options": null,
+      "réponse": ""
+    },
+    {
+      "question": "Quelle est la surface disponible pour votre cuisine (en m²) ?",
+      "options": null,
+      "réponse": ""
+    },
+    {
+      "question": "Quel style de cuisine préférez-vous ?",
+      "options": ["Moderne", "Classique", "Rustique", "Industriel", "Minimaliste"],
+      "réponse": ""
+    },
+    {
+      "question": "Avez-vous des préférences pour les matériaux principaux (plan de travail, façades, etc.) ?",
+      "options": null,
+      "réponse": ""
+    },
+    {
+      "question": "Quel type d'électroménager souhaitez-vous inclure ?",
+      "options": ["Plaque de cuisson", "Four encastrable", "Micro-ondes", "Réfrigérateur", "Lave-vaisselle", "Hotte"],
+      "réponse": ""
+    },
+    {
+      "question": "Quel type d'agencement préférez-vous ?",
+      "options": ["Cuisine en L", "Cuisine en U", "Cuisine linéaire", "Cuisine avec îlot central"],
+      "réponse": ""
+    },
+    {
+      "question": "Souhaitez-vous des rangements supplémentaires (colonnes, tiroirs, etc.) ?",
+      "options": null,
+      "réponse": ""
+    },
+    {
+      "question": "Avez-vous des contraintes spécifiques (hauteur, largeur, accès à l'eau ou électricité) ?",
+      "options": null,
+      "réponse": ""
+    },
+    {
+      "question": "Quand souhaitez-vous que le projet soit réalisé ?",
+      "options": null,
+      "réponse": ""
+    },
+    {
+      "question": "Souhaitez-vous un accompagnement pour le design de votre cuisine ?",
+      "options": ["Oui", "Non"],
+      "réponse": ""
+    }
+  ]
+}
